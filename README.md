@@ -23,7 +23,7 @@ The goal is to identify inconsistencies, evaluate employee performance, and dete
 
 ---
 
-## ⚙️ How to Use
+## How to Use
 1. Clone this repository or copy scripts individually.  
 2. Open MySQL Workbench (or equivalent SQL IDE).  
 3. Set the working database:
