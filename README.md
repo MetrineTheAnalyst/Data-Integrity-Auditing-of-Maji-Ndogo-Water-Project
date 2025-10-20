@@ -2,7 +2,7 @@
 This project assesses the integrity and accuracy of the Maji Ndogo water project database by comparing internal survey data against an independent auditor's report CSV file.
 The goal is to identify inconsistencies, evaluate employee performance, and detect potential misconduct.
 
-## 🧱 Database Used
+## Database Used
 **Database:** `md_water_services`  
 **Tables Involved:**  
 - `auditor_report` (CSV import)  
@@ -13,7 +13,7 @@ The goal is to identify inconsistencies, evaluate employee performance, and dete
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 | File | Description |
 |------|--------------|
